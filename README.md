@@ -51,5 +51,6 @@ Insert your own Platforminfo in config.plist
 
 # Not Works
 
++ AirDrop, iMessages, Facetime
 + Nvidia RTX 3050 6GB (Switchable Graphics is not supported by Hackintosh)
 + Etc
